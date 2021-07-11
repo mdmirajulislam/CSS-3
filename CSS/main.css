@@ -1,0 +1,63 @@
+.blog{
+    color:rgb(47, 0, 255);
+}
+    .k{
+        font-size: 30px;
+    }
+    .x{
+        background-color: darkseagreen;
+    }
+    .head{
+        color:rgb(255, 0, 0);
+        font-size: 50px;
+    }
+    .b{
+        border:5px solid red 
+    }
+    .b{
+        margin: 10px;
+        padding: 10px;
+        width:20%;
+        float: right;
+        text-align: center;
+    }
+    .r{
+        border: 5px solid rgb(216, 153, 153);
+        border-radius: 0px;
+        border-bottom-right-radius:0px;
+        border-bottom-left-radius:200px;
+    }
+    h1:hover{
+        color: rgb(255, 0, 0);
+    }
+    .blog:hover{
+        color: rgb(255, 0, 128);
+    }
+    .z{
+        height: 200px;
+        width: 250px;
+        border :1px solid red
+    }
+    .a{
+        overflow: auto;
+    }
+    Infut:focus{
+        color:rgb(0, 255, 13);
+        font-size: 35px;
+    }
+    li:first-child{
+        color:rgb(0, 139, 12);
+    }
+    li:last-child{
+        color:darkred;
+    }
+    li:nth-child(2n+1){
+        color:deeppink;
+    }
+    h2::before{
+        content:" Hi "
+    }
+    body{
+        font-family: 'Playball', cursive;
+    }
+    
